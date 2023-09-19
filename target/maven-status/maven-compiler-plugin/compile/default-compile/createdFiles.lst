@@ -1,0 +1,5 @@
+com/example/teapractice/sevices/TeaService.class
+com/example/teapractice/controller/TeaController.class
+com/example/teapractice/repository/TeaRepository.class
+com/example/teapractice/TeapracticeApplication.class
+com/example/teapractice/model/Teaname.class
